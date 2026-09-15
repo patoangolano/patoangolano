@@ -87,7 +87,7 @@ vale mais que o achado.
 ## Contato
 
 📍 São Paulo, Brasil · aberto a remoto
-💼 [LinkedIn](https://www.linkedin.com/in/matheus-andr%C3%A9-rodrigues-alves-lima-90464530a)
+💼 [LinkedIn](https://www.linkedin.com/in/matheusarlima)
 📧 matheusandrelima47@gmail.com
 
 Procurando primeira posição em **bioinformática** — genômica comparativa,
